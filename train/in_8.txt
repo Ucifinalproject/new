@@ -1,0 +1,59 @@
+﻿Sebelumnya, Rudiantara tidak bisa memastikan kapan bisa mengantongi hasil audit, lantaran tidak memberikan tenggat waktu kepada Facebook.
+
+“Audit itu kan yang melakukan itu mereka. Saya juga tanya kapan auditnya selesai, karena kami minta segera datanya itu dibuka ke kami,” ungkap Menkominfo Rudiantara di kantor Kemkominfo, Rabu (11/4/2018) malam.
+
+Kendati tak memberikan tenggat waktu kepada Facebook, Rudiantara menegaskan pemerintah tidak segan memblokir jika memang menyalahi regulasi di Indonesia.
+
+Ia menjelaskan, ada dua hal yang menjadi pertimbangan pemerintah melakukan pemblokiran, yaitu jika Facebook terbukti digunakan sebagai platform adu domba dan menyebabkan kericuhan terkait Rohingya di Myanmar, serta tidak mampu memberikan perlindungan atas data pribadi para pengguna.
+
+“Tidak harus menunggu Facebook. Kita tidak harus menunggu jawaban Facebook kalau memang ada indikasi yang saya katakan tadi, terutama untuk dua kasus itu,” ungkapnya.Rudiantara mengklaim tidak mempertimbangkan untuk menutup Facebook secara permanen dan tidak menutup layanan terkait Facebook seperti WhatsApp dan Instagram.
+
+Ketika ditanya jangka waktu berlaku SP 2 menuju SP selanjutnya, Rudiantara belum memberikan jawaban definitif.
+
+"Ya bisa sehari, sebulan, dilihat situasinya dulu," pungkas Rudiantara.
+
+Ia mengaku sudah mendapatkan penjelasan dari kantor Facebook Irlandia yang mengurus Facebook di Indonesia.
+
+Dalam keterangan Facebook Irlandia kepada Rudiantara, mereka memberikan keterangan angka terkait penyalahgunaan data yang menimpa pengguna.Setelah mengirim surat peringatan kedua (SP 2) kepada Facebook Indonesia, Kementerian Komunikasi dan Informatika (Kemkominfo) akan melihat situasi ke depan.
+
+"Ini situasinya akan kita lihat dulu. Kalau semakin buruk, baru kita tutup sementara (blokir)," ujar Menkominfo Rudiantara, Kamis (12/4/2018) saat menghadiri Musyawarah Nasional Masyarakat Telematika Indonesia IX (Munas Mastel IX) di Jakarta.Aplikasi BBM sendiri kini memang tak lagi sekadar chatting. Pengguna bisa melakukan berbagai hal hanya dengan menggunakan BBM. Misalnya saja memesan hotel dan tiket pesawat terbang, hingga bermain gim.
+
+CEO BBM, Matthew Talbot mengatakan, BBM kini bukan hanya sebagai aplikasi chatting. "Kalau masuk BBM, di menu Discover bisa melakukan banyak hal," tuturnya. 
+
+Talbot mengatakan, pada menu Discover, BBM telah menghadirkan berbagai layanan terintegrasi. Oleh karena itu, pengguna sebenarnya tidak perlu memiliki banyak aplikasi untuk memenuhi kebutuhan mereka, cukup dengan aplikasi BBM.
+
+Hal ini dilakukan BBM lantaran banyak pengguna di Indonesia menggunakan smartphone dengan memori terbatas. Pengguna pun agak enggan untuk mengunduh banyak aplikasi karena keterbatasan memori smartphone mereka.
+
+Lain halnya dengan aplikasi pesan. Menurut Talbot, pengguna smartphone di mana pun, seperti Indonesia, Singapura, dan Kanada, memiliki lebih dari satu aplikasi pesan.
+
+Oleh karena itu, BBM mengintegrasikan berbagai layanan dalam satu platform dengan tujuan membuat pengguna mudah mengakses layanan lainnya.Sebagai contoh, orang yang melakukan komunikasi dengan chatbot, nantinya tak berhenti hanya dalam bentuk percakapan tapi juga diarahkan hingga melakukan transaksi. Jadi, percakapan di chatbot tak hanya sekadar tanya-tanya aja atau bentuk dukungan pelanggan tapi juga dapat diubah ke bisnis," tutur pria yang akrab dipanggil Dhiku itu.
+
+Selain itu, kehadiran chatbot ini selaras dengan visi BBM untuk menjadi one stop lifestyle app yang menawarkan beragam layanan. Dengan fitur ini pula, BBM ingin membuka pintu pada pelaku bisnis yang ingin menghadirkan layanan chatbot.
+
+"Chatbot ini sesuai dengan visi BBM untuk menjadi aplikasi yang menawarkan banyak hal. Tak hanya komunikasi, penjualan, hingga akses konten, tapi juga komunikasi yang dilakukan dengan bisnis," ujarnya menjelaskan.
+
+Di kesempatan tersebut, ia juga menyebut kehadiran chatbot di BBM ini disambut baik para pelaku bisnis. "Jadi, saat ini sudah mulai banyak permintaan untuk terhubung dengan BBM karena memang proses integrasinya yang kini lebih mudah," tuturnya mengakhiri pembicaraanJadi, kita sudah menyediakan API untuk pihak ketiga yang ingin terhubung dengan chatbot BBM. Sementara, pelaku usaha yang mungkin memiliki keterbatasan dalam hal tim teknologi dapat menghubungi rekanan kami, seperti kata.AI atau Prism untuk terhubung dengan kami," tuturnya saat ditemui di Jakarta, Rabu (11/4/2018) kemarin.
+
+Tak hanya kemudahan bagi pengguna chatbot, BBM juga berencana untuk meningkatkan kemampuan dari teknologi itu sendiri. Salah satunya adalah mengembangkan chatbot yang lebih interaktif.
+
+"Kita ingin buat chatbot yang lebih interaktif, semisal dengan template button yang lebih kaya atau ada pilihan gambar dan suara. Intinya, hadir lebih interaktif," tuturnya. Selain itu, ia menuturkan chatbot ini nantinya akan mendukung sistem pembayaran di BBM.
+
+Seperti diketahui, BBM kini telah memiliki layanan dompet digital yang diberi nama DANA. Untuk itu, BBM berencana untuk mengintegrasikan chatbot ini ke dalam sistem pembayaran tersebut.Tren kehadiran chatbot di layanan aplikasi chatting turut diikuti oleh BlackBerry Messenger (BBM). Aplikasi chatting ini kini menawarkan layanan chatbot yang terbuka bagi seluruh penyedia bisnis atau layanan.
+
+Menurut SVP Product KMK Online dan BBM, Hadikusuma Wahab, chatbot di BBM ditujukan tak hanya untuk penyedia bisnis besar, tapi juga pelaku usaha kecil, mikro, dan menengah (UMKM).
+
+Karenanya, BBM menyediakan dua opsi metode untuk menghubungkan chatbot pemilik usaha dengan BBM.Google bakal mengubah tampilan layanan email Gmail versi web. Mengutip laman Tech Crunch, Jumat (13/4/2018), informasi ini diketahui dari email yang dikirimkan oleh Google pada kustomer layanan G Suite-nya.
+
+Dalam email itu, Google menginformasikan tengah mengembangkan versi baru Gmail versi web. Dalam versi baru Gmail web, perusahaan juga menghadirkan sejumlah fitur terbaru.
+
+Misalnya saja, pengguna bisa mengakses secara langsung Google Calendar dari antarmuka GmailFitur lainnya, pengguna juga bisa menunda email masuk, sehingga akan muncul kembali di lain waktu. Hal ini dianggap sebagai cara yang baik untuk membersihkan kotak masuk jika pengguna belum bisa membalas email tertentu.
+
+Pengguna yang mengakses Gmail dari iPhone atau Android tentu sudah bisa menggunakan fitur smart reply.
+
+Dengan perubahan tampilan Gmail web, nantinya algoritma yang sama akan diterapkan pada Gmail.com sehingga pengguna bisa menggunakan fitur smart reply.
+
+Berdasarkan penglihatan seorang warganet, tampilan Gmail web versi terbaru adalah menyatukan Gmail dan Inbox.
+
+Kolom di sisi kiri Gmail web versi baru ini mirip dengan tampilan inbox.google.com. Sementara pada sisi kanannya tampak Gmail dalam versi besar. Warna latar Gmail baru cenderung gradien kebiruan.
+
+Sementara, setiap folder di sebelah kiri memiliki ikon seperti Inbox dan dibagi per kategori pesan.

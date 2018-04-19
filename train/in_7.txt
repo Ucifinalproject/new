@@ -1,0 +1,38 @@
+﻿Okeshop (PT.OkeShop) menyambut baik program tukar tambah Samsung S9 dan S9 Plus ini,” tulis Evy Soenarjo, Direktur Utama OkeShop (PT OkeShop) di dalam keterangan resminya, Jumat (13/4/2018).
+
+Ia menambahkan, "Kepercayaan dari Samsung sangat kami hargai dan kerja sama kedua belah pihak kali ini dibuktikan dalam event trade-in Samsung S9 dan Samsung S9 Plus di Grand Indonesia ini."
+
+Selain bisa menukar smartphone lama ke Galaxy S9 dan S9 Plus, penggunjung yang ingin membeli duo smartphone anyar milik Samsung ini juga akan mendapatkan bonus khusus.
+
+Disebutkan, pembeli akan mendapatkan sebuah bluetooth speaker Harman Kardon Onyx Mini, dan memperoleh cashback hingga Rp 600.000 jika menggunakan kartu kredit bank yang berpartisipasi.Fitur video super slow-mo disebut mampu merekam video 960 frame per detik (fps) dalam waktu 6 milidetik sehingga mampu menciptakan momen epik yang dinamis.
+
+Samsung Galaxy S9 dan Samsung Galaxy S9 Plus hadir dengan dual aperture F1.5 dan F2.4. Aperture F1.5 merupakan bukaan besar untuk mengakomodasi kondisi minim cahaya yang diklaim tepat untuk fotografi low light. Sementara aperture F2.4 untuk memotret pada kondisi pencahayaan normal.
+
+Kedua smartphone Samsung ini juga mempunyai fitur AR emoji dimana Samsung memanfaatkan algoritma berbasis data yang menganalisis potret wajah pengguna.
+
+Nantinya ponsel akan menciptakan model 3D yang meniru ekspresi pengguna, seperti berkedip, mengangguk, hingga mewakili tampilan gaya berbusanaWhatsApp group saat ini sudah menjadi hal yang umum. Fitur pada WhatsApp ini memungkinkan sebuah komunitas, alumni sekolah dan kampus sampai teman kantor mudah dikumpulkan dalam berkomunikasi dan bersilaturahmi. 
+
+WhatsApp group bisa menampung 256 pengguna untuk saling berbagi tautan, dokumen sampai file. Memang terlihat WhatsApp group begitu fungsional dan membantu komunikasi era kini. Namun siapa sangka, WhatsApp group punya sisi gelap tersembunyi. Pengguna tak sadar, diam-diam WhatsApp group bisa menjadi jalan mata-mata. Peneliti keamanan dengan mudahnya memanen ‘harta karun’ data di WhatsApp group begitu mudahnya. Mirisnya lagi, untuk bisa memanen data WhatsApp group, bisa menggunakan perangkat mobile lama. Cukup menjalankan skrip dan aplikasi yang dirancang khusus, seseorang bisa mudah memanen data di WhatsApp group.
+
+
+Dikutip dari Venturebeat, Jumat 13 April 2018, untuk bisa masuk ke grup WhatsApp, peneliti dari Swiss dan Inggris menelusurinya di internet. Peneliti menggunakan alat otomatisasi browser untuk bisa bergabung dengan sekitar 2 ribu grup. 
+
+Selanjutnya setelah bergabung, peneliti beraksi. Smartphone mereka mulai bisa memanen data. Memang data di WhatsApp terenkripsi, tapi kunci sandi disimpan di dalam RAM perangkat mobile. Celah ini memungkinkan peneliti membobol data menggunakan teknik yang dikembangkan peneliti India, LP Gudipaty dan KY Jhala.
+
+Hasilnya, selama periode enam bulan, peneliti Swedia dan Inggris bisa memeroleh data hampir dari setengah juta pesan yang seliweran di antara 45.794 pengguna di 178 WhatsApp group. 
+
+Dalam periode tersebut, peneliti bisa mendapatkan nomor ponsel, gambar, video, tautan web yang dibagikan di WhatsApp group. Peneliti juga bisa memantau topik apa saja yang dipergunjingkan WhatsApp grup.  
+
+Dengan metode tersebut, peneliti Swiss dan Inggris bisa dengan leluasa mengakses data yang diposting di WhatsApp group. Padahal sebelumnya, peneliti tidak bisa mengakses data di grupAwal tahun ini, laman Wired melaporkan peneliti Ruhr-University Bochum, Jerman menemukan serangkaian kelemahan pada aplikasi pengiriman pesan terenkripsi.
+
+Sebab siapa saja yang bisa mengendalikan server WhatsApp, maka bisa memasukkan orang baru ke grup WhatsApp untuk mengontrol percakapan. Peneliti Jerman mengatakan seharusnya dengan enkripsi end to end, sampai server diakses orang asing pun, pesannya pengguna masih aman.
+
+"Kerahasiaan grup (WhatsApp) rusak setelah anggota tak diundang bisa memperoleh semua pesan baru dan membacanya," kata peneliti Jerman, Paul Rosler. 
+
+Rosler menuturkan, dalam hal pesan terenkripsi end to end, berarti penambahan anggota baru harus mendapatkan perlindungan. Sebab jika tidak, maka menurutnya nilai enkripsi menjadi tak begitu penting.  
+
+Tak heran, meski WhatsApp menggembor-gemborkan enkripsi end to end, ternyata masih ada celah untuk mata-mata. 
+
+Laman New York Times melaporkan, aktivis HAM Zhang Guanghong ditahan pemerintah China setelah mereka memantau percakapan teman Guanghong di WhatsApp. Di grup WhatsApp, pemerintah menemukan bukti sang aktivitas bersama teman-temannya mengkritik presiden China. 
+
+Laman tersebut berspekulasi, kemungkinan pemerintah China telah menyadap ponsel Guanghong atau menyusupkan mata-mata dalam grup WhatsApp
